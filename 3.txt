@@ -1,0 +1,5 @@
+Petrov 40
+Ivanov 10
+Sidorov 13
+Nabokov 40
+Sverdlov 36
